@@ -1,0 +1,199 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background-color: #036400;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    color: #036400;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+    color: #036400;
+    font-size: 30px;
+}
+body{
+    background-color: #404040;
+}
+.tarjeta1{
+    width: 250px;
+    height: 350px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flexbox;
+}
+.tarjeta2{
+    width: 250px;
+    height: 350px;
+    background-color: white;
+    margin-left: 290px;
+    margin-top: -350px;
+    display: flexbox;
+}
+img{
+    width: 200px;
+}
+.tarjeta1_p{
+    text-align: center;
+    font-size: 20px;
+}
+.p1{
+    padding-left: 4px;
+    font-size: 12px;
+}
+.p2{
+    display: inline;
+    padding-left: 4px;
+    font-size: 12px;
+}
+.p3{
+    display: inline;
+    font-size: 12px;
+    color: #036400
+}
+.agregarCarrito1{
+    display: block;
+    margin-top: 10px;
+    margin-left: 90px;
+    padding: 4px;
+}
+.agregarCarrito2{
+    display: block;
+    margin-top: 10px;
+    margin-left: 90px;
+    padding: 4px;
+}
+.btn_a{
+    margin-left: 4px;
+    font-size: 13px;
+    color: blue;
+    text-decoration: none;
+}
+.btn_b{
+    margin-left: 4px;
+    font-size: 13px;
+    color: blue;
+    text-decoration: none;
+    display: block;
+}
+.btnB{
+    display: block;
+    margin-top: 10px;
+    margin-left: 90px;
+    padding: 4px;
+}
+.modal::backdrop{
+    background-color: rgba(0,0,0,.55);        
+}
+.modal{
+    margin-left: 231px;
+    margin-top: 200px;
+    width: 800px;
+    border-radius: 15px;
+    border-color: #fff;
+}
+.cerrarModal{
+    margin-bottom: 15px;
+    margin-left: 730px;
+}
+.modal_h3{
+    width: 450px;
+    font-size: 30px;
+    padding-bottom: 15px;
+    margin-left: 15px;
+    border-bottom-style:solid;
+    border-color: rgb(184, 184, 184);
+
+}
+.modal_p1{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+    padding-bottom: 24px;
+}
+.modal_p2{
+    margin-left: 15px;
+    font-size: 20px;
+
+}
+.modal_p3{
+    width: 450px;
+    margin-left: 15px;
+    font-size: 15px;
+    padding-bottom: 15px;
+    border-bottom-style:solid;
+    border-color: rgb(184, 184, 184);
+}
+.div_modal{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 16px;
+}
+.btnText{
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.btn{
+    margin-left: 20px;
+    margin-top: 10px
+}
+.in1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.modal2::backdrop{
+    background-color: rgba(0,0,0,.55);        
+}
+.modal2{
+    margin-left: 231px;
+    margin-top: 200px;
+    width: 800px;
+    border-radius: 15px;
+    border-color: #fff;
+}
+.cerrarModal2{
+    margin-bottom: 15px;
+    margin-left: 730px;
+}
+.modal_h3{
+    width: 450px;
+    font-size: 30px;
+    padding-bottom: 15px;
+    margin-left: 15px;
+    border-bottom-style:solid;
+    border-color: rgb(184, 184, 184);
+
+}
+.modal_p1{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+    padding-bottom: 24px;
+}
+.modal_p2{
+    margin-left: 15px;
+    font-size: 20px;
+
+}
+.modal_p3{
+    width: 450px;
+    margin-left: 15px;
+    font-size: 15px;
+    padding-bottom: 15px;
+    border-bottom-style:solid;
+    border-color: rgb(184, 184, 184);
+}
+.div_modal{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 16px;
+}
