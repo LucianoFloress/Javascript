@@ -1,0 +1,10 @@
+[
+    {"nombre1": "Cambio de módulo",
+    "descripcion1": "El módulo integrado de pantalla LCD y táctil es uno de los componentes principales de los celulares, y es de vital importancia para su funcionamiento.",
+    "nombre2": "Cámaras traseras y delanteras",
+    "descripcion2": "Se trata de una tecnología que permite crear imágenes con mejor contraste, con un mejor equilibrio de sombras y luces de la foto. El rango dinámico es la capacidad de la cámara de tu móvil para lograr ese equilibro.",
+    "nombre3": "Cambio de batería",
+    "descripcion3": "Las baterías sirven para almacenar la energía que necesita nuestro celular para funcionar. Están divididas en celdas, cada una contiene un electrodo positivo y uno negativo.",
+    "nombre4": "Pin de carga",
+    "descripcion4": "El pin de carga, es la parte del celular responsable de recibir la carga de energía a la batería a través de un cargador; y la conexión de datos por cable usb a la computadora."}
+]
