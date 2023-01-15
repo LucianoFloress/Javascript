@@ -7,7 +7,18 @@ nav{
     height: 60px;
     background-color: cadetblue;
 }
+
+body{
+    background-color: black;
+}
+
 h1{
     text-align: center;
     margin-top: 20px;
+    color: #fff;
+}
+h2{
+    font-size: 200px;
+    color: #fff;
+    text-align: center;    
 }
